@@ -1,0 +1,93 @@
+body{
+    background: rgb(4,100,120);
+    background: linear-gradient(90deg, rgba(4,100,120,1) 0%, rgba(1,46,55,1) 32%, rgba(0,28,34,1) 51%, rgba(0,0,0,1) 81%);
+}
+.caixa{
+    height: 700px;
+    width: 500px;
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 48%;
+    border-radius: 25px;
+}
+.dir{
+    height: 700px;
+    width: 500px;
+    margin-top: 5%;
+    border-radius: 25px;
+    position: relative;
+    top: -796px;
+    left: 443px;
+}
+.dir{
+    background-image: url("foto.png");
+    background-size: 700px 700px;
+}
+h1{
+    color: black;
+    margin-left: 36%;
+    position: relative;
+    top: 25px;
+    font-size:xx-large;
+    font-family: sans-serif;
+}
+#nome{
+    width: 70%;
+    height: 25px;
+    margin-top: 10%;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+#email{
+    width: 70%;
+    height: 25px;
+    margin-top: 5%;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+label{
+    margin-top: 10%;
+    margin-left: 15%;
+}
+#data{
+
+    height: 25px;
+    margin-top: 5%;
+    margin-left: 15%;
+    border-radius: 5px;
+    position: relative;
+    left: -29px;
+}
+#cadastro{
+    width: 70%;
+    height: 25px;
+    margin-top: 5%;
+    margin-left: 15%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+#pronto{
+    color: black;
+    margin-left: 15%;
+}
+#limpar{
+    width: 70%;
+    height: 25px;
+    margin-top: 5%;
+    margin-left: 15%;
+    background-color: black;
+    color: white;
+}
+h3{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.branco{
+    color: white;
+    font-family: sans-serif;
+    font-size: 42px;
+    position: relative;
+    top: 268px;
+    left: -113px;
+}
